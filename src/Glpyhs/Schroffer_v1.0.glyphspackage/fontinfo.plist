@@ -1,0 +1,626 @@
+{
+.appVersion = "3260";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
+date = "2022-10-15 09:15:37 +0000";
+familyName = "Schroffer Mono";
+fontMaster = (
+{
+axesValues = (
+400
+);
+customParameters = (
+{
+name = winAscent;
+value = 814;
+},
+{
+name = winDescent;
+value = 200;
+},
+{
+name = typoAscender;
+value = 814;
+},
+{
+name = typoDescender;
+value = -200;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = hheaAscender;
+value = 814;
+},
+{
+name = hheaDescender;
+value = -200;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = underlinePosition;
+value = 100;
+},
+{
+name = underlineThickness;
+value = 15;
+},
+{
+name = "Master Icon Glyph Name";
+value = a;
+}
+);
+guides = (
+{
+locked = 1;
+pos = (-72,181);
+},
+{
+locked = 1;
+pos = (-73,271);
+},
+{
+locked = 1;
+pos = (-70,362);
+},
+{
+locked = 1;
+pos = (-74,452);
+},
+{
+locked = 1;
+pos = (-74,543);
+},
+{
+locked = 1;
+pos = (-74,633);
+},
+{
+angle = 90;
+locked = 1;
+pos = (685,896);
+},
+{
+angle = 90;
+locked = 1;
+pos = (638,896);
+},
+{
+angle = 90;
+locked = 1;
+pos = (548,889);
+},
+{
+angle = 90;
+locked = 1;
+pos = (501,889);
+},
+{
+angle = 90;
+locked = 1;
+pos = (411,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (364,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (274,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (227,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (137,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (90,886);
+},
+{
+locked = 1;
+pos = (-70,90);
+},
+{
+locked = 1;
+pos = (-74,724);
+}
+);
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 814;
+},
+{
+over = 16;
+pos = 814;
+},
+{
+over = 16;
+pos = 814;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -200;
+}
+);
+name = Regular;
+stemValues = (
+90,
+90
+);
+userData = {
+GSCornerRadius = 15;
+};
+visible = 1;
+},
+{
+axesValues = (
+700
+);
+customParameters = (
+{
+name = winAscent;
+value = 814;
+},
+{
+name = winDescent;
+value = 200;
+},
+{
+name = typoAscender;
+value = 814;
+},
+{
+name = typoDescender;
+value = -200;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = hheaAscender;
+value = 814;
+},
+{
+name = hheaDescender;
+value = -200;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = underlinePosition;
+value = 100;
+},
+{
+name = underlineThickness;
+value = 15;
+},
+{
+name = "Master Icon Glyph Name";
+value = a;
+}
+);
+guides = (
+{
+locked = 1;
+pos = (-72,181);
+},
+{
+locked = 1;
+pos = (-73,271);
+},
+{
+locked = 1;
+pos = (-70,362);
+},
+{
+locked = 1;
+pos = (-74,452);
+},
+{
+locked = 1;
+pos = (-74,543);
+},
+{
+locked = 1;
+pos = (-74,633);
+},
+{
+angle = 90;
+locked = 1;
+pos = (685,896);
+},
+{
+angle = 90;
+locked = 1;
+pos = (638,896);
+},
+{
+angle = 90;
+locked = 1;
+pos = (548,889);
+},
+{
+angle = 90;
+locked = 1;
+pos = (501,889);
+},
+{
+angle = 90;
+locked = 1;
+pos = (411,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (364,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (274,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (227,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (137,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (90,886);
+},
+{
+locked = 1;
+pos = (-70,90);
+},
+{
+locked = 1;
+pos = (-74,724);
+}
+);
+iconName = SemiBold;
+id = m004;
+metricValues = (
+{
+over = 16;
+pos = 814;
+},
+{
+over = 16;
+pos = 814;
+},
+{
+over = 16;
+pos = 814;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -200;
+}
+);
+name = Bold;
+stemValues = (
+180,
+180
+);
+userData = {
+GSCornerRadius = 15;
+GSOffsetHorizontal = 45;
+GSOffsetVertical = 45;
+};
+},
+{
+axesValues = (
+900
+);
+customParameters = (
+{
+name = winAscent;
+value = 814;
+},
+{
+name = winDescent;
+value = 200;
+},
+{
+name = typoAscender;
+value = 814;
+},
+{
+name = typoDescender;
+value = -200;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = hheaAscender;
+value = 814;
+},
+{
+name = hheaDescender;
+value = -200;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = underlinePosition;
+value = 100;
+},
+{
+name = underlineThickness;
+value = 15;
+},
+{
+name = "Master Icon Glyph Name";
+value = a;
+}
+);
+guides = (
+{
+locked = 1;
+pos = (-72,181);
+},
+{
+locked = 1;
+pos = (-73,271);
+},
+{
+locked = 1;
+pos = (-70,362);
+},
+{
+locked = 1;
+pos = (-74,452);
+},
+{
+locked = 1;
+pos = (-74,543);
+},
+{
+locked = 1;
+pos = (-74,633);
+},
+{
+angle = 90;
+locked = 1;
+pos = (685,896);
+},
+{
+angle = 90;
+locked = 1;
+pos = (638,896);
+},
+{
+angle = 90;
+locked = 1;
+pos = (548,889);
+},
+{
+angle = 90;
+locked = 1;
+pos = (501,889);
+},
+{
+angle = 90;
+locked = 1;
+pos = (411,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (364,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (274,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (227,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (137,886);
+},
+{
+angle = 90;
+locked = 1;
+pos = (90,886);
+},
+{
+locked = 1;
+pos = (-70,90);
+},
+{
+locked = 1;
+pos = (-74,724);
+}
+);
+iconName = Bold;
+id = m003;
+metricValues = (
+{
+over = 16;
+pos = 814;
+},
+{
+over = 16;
+pos = 814;
+},
+{
+over = 16;
+pos = 814;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -200;
+}
+);
+name = Black;
+stemValues = (
+280,
+280
+);
+userData = {
+GSCornerRadius = 15;
+GSOffsetHorizontal = 100;
+GSOffsetVertical = 100;
+};
+}
+);
+instances = (
+{
+axesValues = (
+400
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = Regular;
+},
+{
+axesValues = (
+700
+);
+instanceInterpolations = {
+m004 = 1;
+};
+name = Bold;
+},
+{
+axesValues = (
+900
+);
+instanceInterpolations = {
+m003 = 1;
+};
+name = Black;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2024 Flux Variable Font Authors (https://github.com/ralphbruens/flux)";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Ralph Bruens";
+}
+);
+},
+{
+key = designerURL;
+value = fonts.ralphbruens.nl;
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "OFL-1.1 License";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Ralph Bruens";
+}
+);
+}
+);
+stems = (
+{
+name = Dot;
+},
+{
+horizontal = 1;
+name = Dot;
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}
