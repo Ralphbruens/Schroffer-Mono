@@ -1,4 +1,4 @@
-# Flux
- Flux is a variable display font
+# Schroffer Mono
+ Schroffer Mono is a stencil mono inspired typeface
 
-![Flux Thumbail](img/filecover.png)
+![Schroffer Mono Thumbail](img/filecover.png)
