@@ -38302,7 +38302,7 @@ value = "OFL-1.1 License";
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org/open-font-license-official-text/";
 },
 {
 key = manufacturers;
